@@ -49,7 +49,7 @@ Get the Caffe code
 
 - Scripts
 
-	> There are two scripts provided in our code: [model_run.sh]() and [extract_features.sh](Slicing-CNN/extract_features_xt.sh).
+	> There are two scripts provided in our code: [model_run.sh](https://github.com/amandajshao/Slicing-CNN/blob/master/model_run.sh) and [extract_features.sh](https://github.com/amandajshao/Slicing-CNN/blob/master/extract_features_xt.sh).
 
 
 ## Related Projects
