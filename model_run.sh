@@ -1,0 +1,1 @@
+mpirun -n 2 ./caffe-multigpu-ndconv-scnn/build/tools/caffe.bin train -solver ./scnn_prototxt/crowd_scnn_vgg_mgpu_xt_solver.prototxt -weights ./crowd_scnn_init_model.caffemodel -gpu 0,1

@@ -1,0 +1,1 @@
+mpirun -n 2 ./caffe-multigpu-ndconv-scnn/build/tools/extract_features_mpi.bin ./scnn_best_models/crowd_scnn_vgg_mgpu_xt_best_model.caffemodel ./scnn_prototxt/crowd_scnn_vgg_mgpu_xt_test.prototxt fc8-xt ./crowd_scnn_vgg_mgpu_xt_best_model-fc8-xt.db 1844 leveldb GPU 0,1
