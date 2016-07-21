@@ -64,7 +64,7 @@ Get the Caffe code
 
 ## Citation
 
-J. Shao, C. C. Loy, K. Kang, and X. Wang
+J. Shao, C. C. Loy, K. Kang, and X. Wang.
 Slicing Convolutional Neural Network for Crowd Video Understanding.
 _Computer Vision and Pattern Recognition (CVPR), 2016_.
 
