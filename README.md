@@ -31,9 +31,9 @@ Get the Caffe code
 
 	> The dataset is introduced in CVPR 2015 which contains 10,000 crowd videos from 8,257 different crowded scenes with annotated 94 attributes.
 
-- [LMDB Data]()
+- [LMDB Data](https://www.dropbox.com/sh/m9u5ug4jn3x9cxl/AADLwHb4ZTqZBfAeVHJBQBPia?dl=0)
 
-	> Release soon ...
+	> The LMDB data used in the model with training/validation/test splits.
 
 - [CNN Initial Model](https://www.dropbox.com/s/pivm4sz5mpcp4r1/crowd_scnn_init_model.caffemodel?dl=0)
 
