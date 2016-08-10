@@ -38,19 +38,25 @@ Get the Caffe code
 - CNN Initial Model
 
 	> The initial model (VGG-16) is pre-trained on UCF-101 action dataset (single frame) and fine-tuned on WWW dataset (single frame).
+	
 	> [Dropbox link](https://www.dropbox.com/s/pivm4sz5mpcp4r1/crowd_scnn_init_model.caffemodel?dl=0)
+	
 	> BaiduDisk link: http://pan.baidu.com/s/1jH5VLNw (password: 76zl)
 
 - CNN Best Model
 
 	> Three models: SCNN-xy, SCNN-xt, SCNN-yt.
+	
 	> [Dropbox link](https://www.dropbox.com/sh/qpuc7slosybj33j/AADwbKuyckmFhvkaLw95xK8oa?dl=0)
+	
 	> BaiduDisk link: http://pan.baidu.com/s/1pK7h5sJ (password: j024)
 
 - Prototxt
 
 	> The prototxts are corresponding to the above three models (SCNN-xy/-xt/-yt).
+	
 	> [Dropbox link](https://www.dropbox.com/sh/zowetbmf9cquvmr/AABwkMFlu8I28ekBXXPrScZEa?dl=0)
+	
 	> BaiduDisk link: http://pan.baidu.com/s/1o85xUI2 (password: mwvo)
 
 - Scripts
