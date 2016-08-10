@@ -27,7 +27,7 @@ Get the Caffe code
 
 
 ## Files
-- [Dataset](http://www.ee.cuhk.edu.hk/~jshao/WWWcrowd_files/www_archive.zip)
+- [Dataset](http://www.ee.cuhk.edu.hk/~jshao/WWWCrowdDataset.html)
 
 	> The dataset is introduced in CVPR 2015 which contains 10,000 crowd videos from 8,257 different crowded scenes with annotated 94 attributes.
 
@@ -35,17 +35,23 @@ Get the Caffe code
 
 	> The LMDB data used in the model with training/validation/test splits.
 
-- [CNN Initial Model](https://www.dropbox.com/s/pivm4sz5mpcp4r1/crowd_scnn_init_model.caffemodel?dl=0)
+- CNN Initial Model
 
 	> The initial model (VGG-16) is pre-trained on UCF-101 action dataset (single frame) and fine-tuned on WWW dataset (single frame).
+	> [Dropbox link](https://www.dropbox.com/s/pivm4sz5mpcp4r1/crowd_scnn_init_model.caffemodel?dl=0)
+	> BaiduDisk link: http://pan.baidu.com/s/1jH5VLNw (password: 76zl)
 
-- [CNN Best Model](https://www.dropbox.com/sh/qpuc7slosybj33j/AADwbKuyckmFhvkaLw95xK8oa?dl=0)
+- CNN Best Model
 
 	> Three models: SCNN-xy, SCNN-xt, SCNN-yt.
+	> [Dropbox link](https://www.dropbox.com/sh/qpuc7slosybj33j/AADwbKuyckmFhvkaLw95xK8oa?dl=0)
+	> BaiduDisk link: http://pan.baidu.com/s/1pK7h5sJ (password: j024)
 
-- [Prototxt](https://www.dropbox.com/sh/zowetbmf9cquvmr/AABwkMFlu8I28ekBXXPrScZEa?dl=0)
+- Prototxt
 
 	> The prototxts are corresponding to the above three models (SCNN-xy/-xt/-yt).
+	> [Dropbox link](https://www.dropbox.com/sh/zowetbmf9cquvmr/AABwkMFlu8I28ekBXXPrScZEa?dl=0)
+	> BaiduDisk link: http://pan.baidu.com/s/1o85xUI2 (password: mwvo)
 
 - Scripts
 
